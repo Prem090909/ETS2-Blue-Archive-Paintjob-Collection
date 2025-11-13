@@ -1,6 +1,6 @@
-# ETS2-Blue-Archive-Paintjob-Collection-Project
+# ETS2-Blue-Archive-Paintjob-Collection
 
-A project of mine involving truck skins of Blue Archive related things
+A project of mine involving trailer paintjobs based on the game Blue Archive.
 
 # Credits:
 - Hachi - School Logos [https://hachiiiiiiii.co]
@@ -9,13 +9,6 @@ A project of mine involving truck skins of Blue Archive related things
 - Serika Pout - https://ph.pinterest.com/pin/512284526384155356/
 - Chibi Ayane - https://ph.pinterest.com/pin/128774870589635055/
 
-# Trucks Supported
-
-- All SCS Trucks.
-- Volvo FH3 [Johnny244]
-- Scania P,G,R,S [Eugene]
-- Scania R 2009, G, R 4-Series [RJL]
-- Mercedes-Benz Actros MP2, MP3 [Dotec]
-
 # Trailers Supported
-- All SCS Trailers.
+- All SCS Trailers
+- [WIP] Kogel Trailers by Dotec
